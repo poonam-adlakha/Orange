@@ -1,4 +1,4 @@
-This Orange is made using:
+This Cute Orange is made using:
 <ul>
                         <li> Single DIV  </li>
                         <li> Only HTML and CSS </li>
