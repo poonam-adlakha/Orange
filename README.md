@@ -1,4 +1,4 @@
-This Cute Orange is made using:
+Cute Orange with eyes, mouth is made using:
 <ul>
                         <li> Single DIV  </li>
                         <li> Only HTML and CSS </li>
