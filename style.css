@@ -16,7 +16,7 @@
     left: 40%;
     border-radius: 50%;
     z-index: 5;
-    animation: closed 1s linear infinite;
+    animation: closedEyes 1s linear infinite;
 }
 
 .orange::before  {
@@ -44,7 +44,7 @@
     transform: rotate(320deg);
 }
 
-@keyframes closed {
+@keyframes closedEyes {
     to {
         background: radial-gradient(5% 5% at 43% 54%, #1c1800 40%, transparent 50%), 
     radial-gradient(11% 11% at 43% 52%, #1c1800 40%, transparent 50%),
