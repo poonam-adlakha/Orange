@@ -15,7 +15,6 @@
     top: 40%;
     left: 40%;
     border-radius: 50%;
-    z-index: 5;
     animation: closedEyes 1s linear infinite;
 }
 
