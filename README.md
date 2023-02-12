@@ -2,6 +2,7 @@ Cute Orange with eyes, mouth, blush animation is made using:
 <ul>
                         <li> Single DIV  </li>
                         <li> Only HTML and CSS </li>
+                        <li> Animated orange with gradient </li>
                     </ul>
 
 [Click Me](https://orange-single-div.netlify.app/)
